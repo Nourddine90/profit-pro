@@ -1,0 +1,3 @@
+function goOffer(){
+    window.location.href = "offer.html";
+}
